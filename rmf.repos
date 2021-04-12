@@ -33,7 +33,7 @@ repositories:
     version: main
   rmf/rmf_visualization:
     type: git
-    url: https://github.com/open-rmf/rmf_visualization.git
+    url: https://github.com/open-rmf/rmf_visualization/tree/feature/jwt-authentication
     version: feature/jwt-authentication
   rmf/rmf_visualization_msgs:
     type: git
